@@ -5,7 +5,20 @@
 
 A lightweight, modern template for building and scaling Go applications.
 
+## Features
+
+* **Clean Architecture:** Simple structure for quick script or package development.
+* **Module Ready:** Pre-configured go.mod for dependency management.
+* **Funding Integration:** Built-in Ko-fi support.
+
 ## Getting Started
+
+### Prerequisites
+
+Make sure you have Go installed:
+```bash
+go version
+```
 
 ### Running the Application
 
